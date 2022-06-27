@@ -4,6 +4,8 @@ import numpy as np
 from IPython.display import display
 from http import cookiejar
 
+# Original code based on the answer found at https://stackoverflow.com/a/70947982
+
 # Parse chrome Application -> Cookies into a dataframe.
 #   Note: You must preserve or update the header, as-needed.
 #         The header does not get copied.
