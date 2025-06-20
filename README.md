@@ -5,7 +5,7 @@ Netcookie is a small Python script to generate standard cookie.txt files from va
 ## Installation
 
 ```sh
-git clone https://github.com/kinetechsolutions/netcookie.git
+git clone https://github.com/acrois/netcookie.git
 cd netcookie
 pip install -r requirements.txt
 ```
